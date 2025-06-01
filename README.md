@@ -59,7 +59,7 @@ A modern, responsive web application for managing equipment rentals, maintenance
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/entnt-dashboard.git
+   git clone https://github.com/Zavedsaifi/entnt-dashboard.git
    cd entnt-dashboard
    ```
 
@@ -194,13 +194,6 @@ src/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Authors
-
-- Your Name - Initial work
 
 ## 🙏 Acknowledgments
 
