@@ -5,10 +5,7 @@ A modern, responsive web application for managing equipment rentals, maintenance
 ## 🌐 Live Demo
 
 - **Deployed Application**: [View Live Demo](https://equipment-rental-management.vercel.app/)
-- **GitHub Repository**: [View Source Code]()
-
-[![Deployed with Vercel](https://img.shields.io/badge/Deployed%20with-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/arbaazkhan/entnt-dashboard)
+- **GitHub Repository**: [View Source Code](https://github.com/Zavedsaifi/Equipment-Rental-Management)
 
 ## 🚀 Features
 
